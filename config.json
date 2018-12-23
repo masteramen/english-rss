@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "name": "config",
+    "admob": {
+      "(ipod|ipad|iphone)": {
+        "interstitial": "ca-app-pub-9477174171188196/4534780651"
+      }
+    },
+    "rss": {
+      "items": [
+          {
+          "title": "外贸英语",
+          "alias": "外贸英语",
+          "feedId": "http://feed43.com/3744670374311584.xml",
+          "description": "外贸英语",
+          "feedType": "audio",
+          "enable": true,
+          "status": "ok"
+        }
+      ]
+    },
+    "hotkey":[
+    ],
+    "menu":{
+      "addSubscription":""
+    },
+    "searchRssUrl":"http://cloud.feedly.com/v3/search/feeds?&n=100&fullTerm=false&organic=true&promoted=true&locale=en"
+  }

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/res/preview.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Resource List</title>
+<item>
+<title>VOA News</title>
+<alias>VOA News</alias>
+<link>http://feed43.com/6302168535022045.xml</link>
+<description><![CDATA[Listening to VOA News]]></description>
+<iconUrl></iconUrl>
+<type>audio</type>
+</item>
+<!--
+<item>
+<title>BBC News</title>
+<alias>BBC News</alias>
+<link>http://feed43.com/8010265012501063.xml</link>
+<description><![CDATA[Listening to BBC News]]></description>
+<iconUrl></iconUrl>
+<category>audio</category>
+</item>
+-->
+
+ 
+<item>
+<title>BBC News</title>
+<alias>BBC News</alias>
+<link>http://feed43.com/8753402584161724.xml</link>
+<description><![CDATA[Listening to BBC News]]></description>
+<iconUrl></iconUrl>
+<type>audio</type>
+</item>
+<item>
+<title>VOA Special English</title>
+<alias>VOA</alias>
+<link>http://feed43.com/6328442887276205.xml</link>
+<description><![CDATA[Listening to VOA Special English]]></description>
+<iconUrl></iconUrl>
+<type>audio</type>
+</item>
+
+
+  </channel>
+</rss>

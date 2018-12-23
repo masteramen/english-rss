@@ -1,0 +1,57 @@
+{
+    "version": "1.0",
+    "name": "config",
+    "admob": {
+      "(ipod|ipad|iphone)": {
+        "interstitial": "ca-app-pub-9477174171188196/4534780651"
+      }
+    },
+    "rss": {
+      "items": [
+          {
+          "title": "外贸英语",
+          "alias": "外贸英语",
+          "feedId": "http://feed43.com/3744670374311584.xml",
+          "description": "外贸英语",
+          "feedType": "audio",
+          "enable": true,
+          "status": "ok"
+        }
+        ,{
+          "title": "慢速英语",
+          "alias": "慢速英语",
+          "feedId": "http://feed43.com/6328442887276205.xml",
+          "description": "Listening to Special English",
+          "feedType": "audio",
+          "enable": true,
+          "status": "ok"
+        },
+          {
+          "title": "每日英语",
+          "alias": "每日英语",
+          "feedId": "http://feed43.com/6763735405015243.xml",
+          "description": "每日英语",
+          "feedType": "audio",
+          "enable": true,
+          "status": "ok"
+        },
+          {
+          "title": "英语新闻",
+          "alias": "英语新闻",
+          "feedId": "http://feed43.com/0676287448863078.xml",
+          "description": "英语新闻",
+          "feedType": "audio",
+          "enable": true,
+          "status": "ok"
+        }
+
+        
+      ]
+    },
+    "hotkey":[
+    ],
+    "menu":{
+      "addSubscription":""
+    },
+    "searchRssUrl":"http://cloud.feedly.com/v3/search/feeds?&n=100&fullTerm=false&organic=true&promoted=true&locale=en"
+  }
